@@ -7,7 +7,7 @@ Hi guys!
     
     For windows user
        you have to install apache server using WAMP or XAMPP 
-       put all the files into which is created inside XAMPP-htdocs folder or  in WAMP or XAMPP
+       put all the files into which is created inside XAMPP-htdocs folder or WAMP-www
        open any web browser get acces using "localhost/index.html/"
     
     For Linux user
