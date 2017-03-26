@@ -2,7 +2,8 @@
 Hi guys!
 
 #Instruction to Setup locally
-    download all the attchments in the repositary.
+    
+ download all the attchments in the repositary.
     
     For windows user
        you have to install apache server using WAMP or XAMPP 
