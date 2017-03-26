@@ -1,0 +1,793 @@
+/*-------------------- > 1280------------------*/
+@media screen and (min-width: 1280px){
+	
+	.img-reponsive {
+    	max-width: 560px;
+	}
+	
+}
+
+/*--------------------1280------------------*/
+@media screen and (max-width: 1279px){
+	#nav-menu{
+		width:25%;
+	}
+
+	#main-panel{
+		width:75%;
+	}
+
+	.component.full{
+		width:94%;
+	}
+
+	.d-12{
+		width:100%;
+	}
+
+	.d-10{
+		width:83.33%;
+	}
+
+	.d-8{
+		width:66.66%;
+	}
+
+	.d-6{
+		width:50%;
+	}
+
+	.d-5{
+		width:41.66%;
+	}
+
+	.d-2{
+		width:16.66%;
+	}
+	
+	#footer{
+		position: static;
+	}
+	
+}
+
+
+/*--------------------1280 - 1024------------------*/
+@media screen and (max-width: 1279px) and (min-width: 1024px){
+	#sampath-logo,#nav-menu{
+		display:none;
+	}
+
+	#nav-menu{
+		overflow:auto;
+	}
+
+	#menu-icon{
+		display:block;
+		float:left;
+	}
+
+	#main-panel{
+		width:100%;
+	}
+
+	#quick-links{
+		margin-top:10px;
+	}
+
+	#login{
+		margin-top:20px;
+		width:386px;
+	}
+
+	#notice, #ssl{
+		display:none;
+	}
+
+	#features{
+		margin-top:60px !important;
+	}
+
+	#wrapper header > div {
+		display:block;
+	}
+
+
+	.m-12{
+		width:100%;
+	}
+
+	.m-11{
+		width:91.66%;
+	}
+
+	.m-10{
+		width:83.33%;
+	}
+
+	.m-8{
+		width:66.66%;
+	}
+
+	.m-7{
+		width:58.33%;
+	}
+
+	.m-6{
+		width:50%;
+	}
+
+	.m-5{
+		width:41.66%;
+	}
+
+	.m-4{
+		width:33.33%;
+	}
+
+	.m-3{
+		width:25%;
+	}
+
+	.m-2{
+		width:16.66%;
+	}
+
+	.m-1{
+		width:8.33%;
+	}
+	
+	#wrapper{
+		width:720px;
+	}
+}
+
+
+@media screen and (max-width: 1023px){
+	#sampath-logo,#nav-menu{
+		display:none;
+	}
+
+	#nav-menu{
+		overflow:auto;
+	}
+
+	#menu-icon{
+		display:block;
+		float:left;
+	}
+
+	#main-panel{
+		width:100%;
+	}
+
+	#quick-links{
+		margin-top:10px;
+	}
+
+	#login{
+		margin-top:20px;
+		width:386px;
+	}
+
+	#notice, #ssl{
+		display:none;
+	}
+
+	#features{
+		margin-top:60px !important;
+	}
+
+	#wrapper header > div {
+		display:block;
+	}
+
+
+	.m-12{
+		width:100%;
+	}
+
+	.m-11{
+		width:91.66%;
+	}
+
+	.m-10{
+		width:83.33%;
+	}
+
+	.m-8{
+		width:66.66%;
+	}
+
+	.m-7{
+		width:58.33%;
+	}
+
+	.m-6{
+		width:50%;
+	}
+
+	.m-5{
+		width:41.66%;
+	}
+
+	.m-4{
+		width:33.33%;
+	}
+
+	.m-3{
+		width:25%;
+	}
+
+	.m-2{
+		width:16.66%;
+	}
+
+	.m-1{
+		width:8.33%;
+	}
+
+	#wrapper{
+		width:720px;
+	}
+}
+
+@media screen and (max-width: 975px) and (min-width: 768px){
+	.component{
+		width:312px;
+	}
+
+	.component.double{
+		width:660px;
+	}
+
+	#promos, #exchange-rates{
+		width:264px !important;
+	}
+}
+
+@media screen and (max-width: 768px){
+	#wrapper header > div{
+		margin:0;
+	}
+
+	#promo-area{
+		display:table-footer-group;
+		float:none;
+	}
+
+	#login-area{
+		display:table-header-group;
+		float:none;
+	}
+
+	#login{
+		margin:0 !important;
+	}
+
+	#wrapper{
+		width:420px;
+	}
+
+
+	#wrapper .component {
+		width:400px;
+		max-width:none;
+	}
+
+	#sign-up > a{
+		margin-left:0px;
+	}
+
+	#wrapper #promotions, #features{
+		display:none;
+	}
+
+	#notice, #quick-links{
+		width:400px;
+	}
+
+
+	.component.double{
+		width:92%;
+		margin:2%;
+		/*padding-bottom:35px;*/
+	}
+
+	.component{
+		width:44%;
+		margin:2%;
+	}
+
+	#promos, #exchange-rates{
+		width:264px;
+	}
+
+	.slider{
+		height:auto;
+	}
+
+	.s-12{
+		width:100%;
+	}
+
+	.s-11{
+		width:91.66%;
+	}
+
+	.s-10{
+		width:83.33%;
+	}
+
+	.s-8{
+		width:66.66%;
+	}
+
+	.s-7{
+		width:58.33%;
+	}
+
+	.s-6{
+		width:50%;
+	}
+
+	.s-5{
+		width:41.66%;
+	}
+
+	.s-4{
+		width:33.33%;
+	}
+
+	.s-2{
+		width:16.66%;
+	}
+
+	.s-1{
+		width:8.33%;
+	}
+
+	.table > div{
+		padding-right:0;
+	}
+
+	.table .amount{
+		text-align:left;
+	}
+}
+
+@media screen and (max-width: 600px){
+	header{
+		height:48px;
+	}
+
+	#menu-icon{
+		height:30px;
+		width:30px;
+		padding:9px;
+	}
+
+	#top-menu > ul > li{
+		height:48px;
+		width:48px;
+	}
+
+	#top-menu > ul > li > a{
+		background-image:url('../../images/normal/top-menu/icons_selected-mobile.png');
+		background-position:0 50%;
+		height:48px;
+		padding-top:0;
+	}
+
+	#item-2 a{
+		background-position:34% 50% !important;
+	}
+
+	#item-3 a{
+		background-position:67% 50% !important;
+	}
+
+	#item-4 a{
+		background-position:100% 50% !important;
+	}
+
+	#top-menu > ul > li > a > h5{
+		display:none;
+	}
+
+	#top-menu > ul > li > a > div{	
+		right:0;
+		padding:2px 6px;
+		font-size:0.75em;
+	}
+
+	#title-area{
+		padding-right:4% !important;
+	}
+
+	#body-area{
+		top:48px;
+	}
+
+	#content-area{
+		padding:0;
+	}
+
+	#wrapper header{
+		height:64px;
+	}
+
+	#login{
+		min-width:240px;
+	}
+
+	#title-area{
+		height:40px;
+		padding-left:20px;
+	}
+
+	#title-area h1{
+		line-height:40px;
+		background-size:0 0;
+		padding-left:0;
+		max-width: 65%;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		overflow:hidden;
+	}
+
+	#emergency{
+		width:26px;
+		height:26px;
+		background-image:url('../../images/normal/emg-icon.png') !important;
+		text-indent:-9999px;
+		padding-right:0 !important;
+		margin:7px 0;
+	}
+
+	#more-actions{
+		position:relative;
+		bottom:-13px;
+	}
+
+	.component,.component.double,.component.full{
+		width:96%;
+		margin:2% auto;
+		float:none;
+	}
+
+	.component.full > div{
+		margin:0 20px;
+	}
+
+	.component.double > div{
+		max-width: none;
+	}
+
+	.additional-info{
+		height:30px;
+	}
+		
+	.additional-info div{
+		width:45%;
+	}
+
+	.info-3{
+		display:none !important;
+	}
+
+	.table > div {
+		margin-right:0px !important;
+		margin-left:0px !important;
+	}
+
+	.xs-12{
+		width:100%;
+	}
+
+	.xs-11{
+		width:91.66%;
+	}
+
+	.xs-10{
+		width:83.33%;
+	}
+
+	.xs-9{
+		width:75%;
+	}
+
+	.xs-8{
+		width:66.66%;
+	}
+
+
+	.xs-7{
+		width:58.33%;
+	}
+
+	.xs-6{
+		width:50%;
+	}
+
+	.xs-5{
+		width:41.66%;
+	}
+
+	.xs-4{
+		width:33.33%;
+	}
+
+	.xs-3{
+		width:25%;
+	}
+
+	.xs-2{
+		width:16.66%;
+	}
+
+	.xs-1{
+		width:8.33%;
+	}
+
+	#message-thread .message > div:last-child:before {
+		border-color: transparent transparent #ECF0F1 transparent;
+		border-width: 10px 6px;
+		left: 10px;
+		top: -20px;
+	}
+
+	#message-thread .message.received > div:last-child:before {
+		border-color: transparent transparent #ECF0F1 transparent;
+		border-width: 10px 6px;
+		left: 10px;
+		top: -20px;
+	}
+
+	#message-thread .message.received > div:first-child {
+		padding-left: 0px;
+	}
+
+	#message-thread .message > div:first-child img{
+		display:block;
+		float:left;
+		margin-right:10px;
+	}
+
+	#message-thread .message > div:last-child{
+		margin-top:10px;
+	}
+
+	.form-data div.inner.xs-12{
+		margin:5px 0 10px;
+	}
+
+	.blockMsg.blockPage{
+		width:90% !important;
+		margin-left:-45% !important;
+		padding:40px 20px;
+	}
+
+	.popup{
+		min-width:0 !important;
+	}
+
+	.popup-header h3{
+		width:90%;
+	}
+
+	.popup.message > div {
+		padding-left:20px !important;
+		background-image:none !important;
+	}
+
+	.popup.message{
+		width:auto !important;
+	}
+
+	.dataTables_filter{
+		float:none !important;
+	}
+}
+
+@media screen and (max-width: 480px){
+	.additional-info div{
+		width:98%;
+		margin:0 2%;
+	}
+
+	#title-area h1{
+		line-height:40px;
+		background-size:0 0;
+		padding-left:0;
+		max-width: 65%;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		overflow:hidden;
+	}
+
+	#content-wrapper{
+		margin:25px 15px;
+	}
+
+	.info-2{
+		display:none !important;
+	}
+
+	.component,.component.double,.component.full{
+		width:100%;
+		margin:30px 0 30px 0;
+		border-right:none !important;
+		border-left:none !important;
+	}
+
+	.component.full{
+		margin:2% auto;
+	}
+
+	.component.double{
+		border-top: 1px solid transparent;
+		margin-top:0;
+	}
+
+	.component > div{
+		margin:20px;
+	}
+
+	.currency{
+		margin-left:6px;
+	}
+
+	#balance{
+		margin-bottom:10px;
+	}
+		
+	#wrapper{
+		width:auto;
+		padding:0 10px;
+		margin:0 !important;
+	}
+
+	#wrapper header{
+		height:64px;
+	}
+
+	#wrapper header h3{
+		display:none;
+	}
+
+	#wrapper header h1{
+		line-height:64px;
+	}
+
+
+	#wrapper > .inner.w-7{
+		display:none !important;
+	}
+
+	#quick-links{
+		display:none;
+	}
+
+	#wrapper > .inner.w-5{
+		float:left;
+	}
+
+	#login{
+		margin:0 !important;
+		width:100% !important;
+		float:left;
+	}
+
+	#login > div{
+		margin:25px 8%;
+	}
+
+	.flyout {
+		width: 280px;
+	}
+
+	.dataTables_length{
+		display:none !important;
+	}
+
+	.form-data .checkbox-span, .form-data .radio-span {
+		display: block !important;
+	}
+
+
+
+	#ftnt-cardhome{
+		display:none;
+	}
+}
+
+@media screen and (max-width: 320px){
+	ul.dropdown.expanded{
+		top:40px;
+	}
+
+	/*Finacial calendar css overrides for apple phones*/
+	.fc-header tr {
+		display: block;
+		margin-bottom: 48px;
+	}
+
+	.fc-header-right {
+		display: block;
+		margin-left: -9px;
+	}
+
+	.fc-button.fc-button-today.fc-state-default.fc-corner-left.fc-corner-right.fc-state-disabled {
+		margin-left: 0% !important;
+	}
+}
+
+@media screen and (min-width: 1024px){
+	.img-promo-resp{
+    	 background-image: url("/SVRClientWeb/main/adverts/2016NGP-Tab.png");
+    	 height: 380px;
+		 background-size: 480px auto;
+	}
+	
+	.img-promo-Inst-resp{
+    	background-image: url("/SVRClientWeb/main/adverts/instantLoanPromo.jpg");
+    	height: 380px;
+		background-size: 480px auto;
+	}
+
+	.img-promo-fd-resp{
+    	background-image: url("/SVRClientWeb/main/adverts/FD-banner-PC.jpg");
+    	height: 380px;
+		background-size: 480px auto;
+	}
+
+
+
+}
+/* Lower screens */
+@media screen and (min-width: 570px) and (max-width: 1279px){
+	.img-reponsive {
+    	width: 100%;
+	}
+
+	.img-promo-resp {
+    	background-image: url("/SVRClientWeb/main/adverts/2016NGP-Tab.png");
+    	height: 380px;
+		background-size: 480px auto;
+	}
+	.img-promo-Inst-resp{
+        background-image: url("/SVRClientWeb/main/adverts/instantLoanPromo.jpg");
+    	height: 380px;
+		background-size: 480px auto;
+	}
+	.img-promo-fd-resp{
+        background-image: url("/SVRClientWeb/main/adverts/FD-banner-Tab.jpg");
+    	height: 380px;
+		background-size: 480px auto;
+	}
+	
+}
+
+@media screen and (min-width: 150px) and (max-width: 569px){
+	.img-reponsive {
+    	width: 100%;
+	}
+
+	.img-promo-resp {
+    	background-image: url("/SVRClientWeb/main/adverts/2016NGP-Tab.png");
+    	height: 180px;
+		background-size: 100% auto;		
+	}
+	.img-promo-Inst-resp{
+    	  background-image: url("/SVRClientWeb/main/adverts/instantLoanPromo.jpg");
+    	height: 180px;
+			background-size: 100% auto;	
+	}
+	.img-promo-fd-resp{
+    	  background-image: url("/SVRClientWeb/main/adverts/FD-banner-Tab.jpg");
+    	height: 180px;
+			background-size: 100% auto;	
+	}
+	
+}

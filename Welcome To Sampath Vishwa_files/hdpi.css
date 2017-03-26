@@ -1,0 +1,198 @@
+#menu-icon {
+    background-image: url("../../images/hdpi/top-menu/menu.png");
+}
+
+#title-area h1{
+	background-image:url('../../images/hdpi/start-icon-white.png');
+}
+
+#title-area > h4 {
+    background-image: url("../../images/hdpi/expand-arrow.png");
+    background-size:12px 9px;
+}
+
+.trigger.selected {
+    background-image: url("../../images/hdpi/drop-arrow.png");
+    background-size:12px 9px;
+}
+
+.direct-link {
+    background-image: url("../../images/hdpi/goto.png");
+}
+
+.credit {
+    background-image: url("../../images/hdpi/credit-icon.png");
+}
+
+.debit {
+    background-image: url("../../images/hdpi/debit-icon.png");
+}
+
+.collapser h5 {
+    background-image: url("../../images/hdpi/expand-arrow-blue.png");
+}
+
+.collapser.less h5 {
+    background-image: url("../../images/hdpi/collapse-arrow-blue.png");
+}
+
+.responsiveExpander {
+    background-image: url("../../images/hdpi/expand-arrow-blue.png") !important;
+    background-size:16px 16px !important;
+}
+
+.detail-show .responsiveExpander {
+    background-image: url("../../images/hdpi/collapse-arrow-blue.png") !important;
+    background-size:16px 16px !important;
+}
+
+#notice h3{
+	background-image:url('../../images/hdpi/notice-icon.png');
+}
+
+.action-link{
+	background-size:32px 32px;
+}
+
+#more-actions{
+	background-image:url('../../images/hdpi/action-icons/action-more.png');	
+}
+
+#action-pay{
+	background-image:url('../../images/hdpi/action-icons/action-pay.png');
+}
+
+#action-tran{
+	background-image:url('../../images/hdpi/action-icons/action-tran.png');
+}
+
+#action-mocash	{
+	background-image:url('../../images/hdpi/action-icons/action-mocash.png');
+}
+
+#action-inbox{
+	background-image:url('../../images/hdpi/action-icons/action-inbox.png');
+}
+
+#action-compose{
+	background-image:url('../../images/hdpi/action-icons/action-compose.png');
+}
+
+#action-sent{
+	background-image:url('../../images/hdpi/action-icons/action-sent.png');
+}
+
+#action-draft{
+	background-image:url('../../images/hdpi/action-icons/action-draft.png');
+}
+
+#action-trash{
+	background-image:url('../../images/hdpi/action-icons/action-trash.png');
+}
+
+#action-manac{
+	background-image:url('../../images/hdpi/action-icons/action-manac.png');
+}
+
+#action-myac{
+	background-image:url('../../images/hdpi/action-icons/action-myac.png');
+}
+
+#action-reply{
+	background-image:url('../../images/hdpi/action-icons/action-reply.png');
+}
+
+#action-forward{
+	background-image:url('../../images/hdpi/action-icons/action-forward.png');
+}
+
+#action-openac{
+	background-image:url('../../images/hdpi/action-icons/action-openac.png');
+}
+
+#action-loanac{
+	background-image:url('../../images/hdpi/action-icons/action-loanac.png');
+}
+
+#action-depcheq{
+	background-image:url('../../images/hdpi/action-icons/action-depcheq.png');
+}
+
+#action-mydepo{
+	background-image:url('../../images/hdpi/action-icons/action-mydepo.png');
+}
+
+#action-offers{
+	background-image:url('../../images/hdpi/action-icons/action-offers.png');
+}
+
+#action-pentran{
+	background-image:url('../../images/hdpi/action-icons/action-pentran.png');
+}
+
+#action-statinq{
+	background-image:url('../../images/hdpi/action-icons/action-statinq.png');
+}
+
+#action-penpay{
+	background-image:url('../../images/hdpi/action-icons/action-penpay.png');
+}
+
+#action-myreq{
+	background-image:url('../../images/hdpi/action-icons/action-myreq.png');
+}
+
+#action-searchreq{
+	background-image:url('../../images/hdpi/action-icons/action-searchreq.png');
+}
+
+#action-makepay{
+	background-image:url('../../images/hdpi/action-icons/action-makepay.png');
+}
+
+#action-mypayee{
+	background-image:url('../../images/hdpi/action-icons/action-makepay.png');
+}
+
+#action-cheqstat{
+	background-image:url('../../images/hdpi/action-icons/action-cheqstat.png');
+}
+
+#action-cheqbook{
+	background-image:url('../../images/hdpi/action-icons/action-cheqbook.png');
+}
+
+#action-statment{
+	background-image:url('../../images/hdpi/action-icons/action-statment.png');
+}
+
+#action-profset{
+	background-image:url('../../images/hdpi/action-icons/action-profset.png');
+}
+
+#action-profsec{
+	background-image:url('../../images/hdpi/action-icons/action-profsec.png');
+}
+
+#action-accpref{
+	background-image:url('../../images/hdpi/action-icons/action-accpref.png');
+}
+
+#action-cards{
+	background-image:url('../../images/hdpi/action-icons/action-cards.png');
+}
+
+#edit-button{
+ 	background-image: url("../../images/hdpi/edit.png");
+}
+
+#help-link{
+	background-image:url('../../images/hdpi/help.png');
+	background-size:26px 26px;
+}
+
+
+
+
+
+
